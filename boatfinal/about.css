@@ -1,0 +1,453 @@
+*
+        {
+            margin: 0px;
+            padding: 0px;
+        }
+        body
+        {
+            background-color: black;
+            height: 2000px;
+        }
+        .he1
+        {
+            background-color: red;
+            color: white;
+            font-size: 15px;
+            text-align: center;
+            line-height: 30px;
+            height: 30px;
+        }
+        .im1
+        {
+            background-color: black;
+            height: 45px;
+            margin: 15px 30px;
+        }
+        .he2
+        {
+            background-color: black;
+            height: 85px;
+            
+        }
+        .he2 li a:hover 
+        {
+            /* background-color:red; */
+            color: red;
+        }
+        .he2 li a:active
+        {
+            background-color: blue;
+        }
+        
+        .li1
+        {
+            float: left;
+            list-style: none;
+        }
+        .a1
+        {
+            text-decoration: none;
+            color: white;
+            position: relative;
+            bottom: 45px;
+            left: 370px;
+            padding: 0px 30px;
+        }
+        .sear
+        {
+            position: relative;
+            bottom: 60px;
+            left: 410px;
+            height: 40px;
+            width: 230px;
+            border-radius: 20px;
+        }
+        .im2
+        {
+            width: 100%;
+            position: relative;
+            bottom: 12px;
+        }
+        .marq
+        {
+            color: white;
+            font-size: 25px;
+            line-height: 90px;
+            
+        }
+        .best
+        {
+            color: white;
+            text-align: center;
+            font-size: 40px;
+            position: relative;
+            bottom: 10px;
+        }
+        .imgs
+        {
+            background-color: white;
+            height: 520px;
+            width: 360px;
+            margin: 5px 80px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+        .im3
+        {
+            height: 310px;
+            width: 360px;
+            background-color: lightgray;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+        .p1
+        {
+            color: black;
+            font-weight: bold;
+        }
+        .pr1
+        {
+            color: red;
+            display: inline-block;
+        }
+        del
+        {
+            display: inline-block;
+            color: rgb(168, 167, 167);
+        }
+        .con1
+        {
+            margin: 0px 10px;
+        }
+        .li2
+        {
+            margin: 0px 15px;
+        }
+        .inp1
+        {
+            height: 35px;
+            width: 120px;
+            border-radius: 20px;
+            background-color: black;
+            color: white;
+            border: 1px solid black;
+            position: relative;
+            top: 10px;
+        }
+        .imgs1
+        {
+            background-color: white;
+            height: 520px;
+            width: 360px;
+            margin: 5px 0px;
+            border-radius: 10px;
+            display: inline-block;
+            position: relative;
+            right: 75px;
+        }
+        .imgs2
+        {
+            background-color: white;
+            height: 520px;
+            width: 360px;
+            margin: 5px 0px;
+            border-radius: 10px;
+            display: inline-block;
+            position: relative;
+            right: 70px;
+        }    
+        .just
+        {
+            color: white;
+            text-align: center;
+            font-size: 40px;
+            position: relative;
+            top: 60px;
+        }
+        .imgs3
+        {
+            background-color: white;
+            height: 520px;
+            width: 360px;
+            margin: 5px 0px;
+            border-radius: 10px;
+            display: inline-block;
+            position: relative;
+            left: 75px;
+            top: 70px;
+        }
+        .imgs4
+        {
+            background-color: white;
+            height: 520px;
+            width: 360px;
+            margin: 5px 0px;
+            border-radius: 10px;
+            display: inline-block;
+            position: relative;
+            left: 80px;
+            top: 70px;
+        }
+        .imgs5
+        {
+            background-color: white;
+            height: 520px;
+            width: 360px;
+            margin: 5px 0px;
+            border-radius: 10px;
+            display: inline-block;
+            position: relative;
+            left: 85px;
+            top: 70px;
+        }  
+        .tren
+        {
+            color: white;
+            text-align: center;
+            font-size: 40px;
+            position: relative;
+            top: 150px;
+        } 
+        .air
+        {
+            height: 320px;
+            width: 360px;
+            position: relative;
+            top: 180px;
+            left: 70px;
+        } 
+        .press
+        {
+            color: white;
+            text-align: center;
+            font-size: 40px;
+            position: relative;
+            top: 230px;
+        }
+        .airp
+        {
+            color: white;
+            text-align: center;
+            position: relative;
+            top: 230px;
+            margin-top: 60px;
+            font-size: 20px;
+        }
+        .brand
+        {
+            position: relative;
+            top: 350px;
+            
+        }
+        .fott
+        {
+            position: relative;
+            top: 400px;
+            left: 70px;
+        }
+        .marq1
+        {
+            color: white;
+            font-size: 25px;
+            position: relative;
+            top: 430px;
+            
+        }
+        .ship
+        {
+            background-color: rgb(20, 20, 20);
+            height: 80px;
+            position: relative;
+            top: 470px;
+            
+        }
+        .shipp
+        {
+            color: white;
+            display: inline-block;
+            margin-top: 25px;
+            padding: 0px 250px;
+            
+        }
+        .exc
+        {
+            color: white;
+            display: inline-block;
+            
+        }
+        .sec
+        {
+            color: white;
+            display: inline-block;
+            padding: 0px 200px;
+
+            
+        }
+    
+       
+        .ind 
+        {
+            
+            position: relative;
+            top: 17px;
+            padding: 0px 160px;
+            text-align: center;
+            color: rgb(129, 129, 129); 
+        }  
+        .indb
+        {
+            position: relative;
+            top: 461px;
+            background-color: rgb(39, 39, 39);
+            height: 75px;
+        }      
+        .bot
+        {
+            position: relative;
+            top: 500px;
+            height: 45px;
+            margin: 15px 30px;
+        }
+        .subsc
+        {
+            color: white;
+            position: relative;
+            top: 500px;
+            margin: 15px 30px;
+        }
+        .email
+        {
+            position: relative;
+            top: 500px;
+            margin: 5px 30px;
+            height: 35px;
+            width: 270px;
+            background-color: black;
+            border: 1px solid white;
+            border-radius: 5px;
+            
+        }
+        .subs
+        {
+            position: relative;
+            top: 455px;
+            left: 278px;
+            margin: 5px 30px;
+            height: 35px;
+            width: 150px;
+            background-color: black;
+            color: white;
+            border: 1px solid red;
+            border-radius: 5px;
+
+        }
+
+
+
+
+        .whol
+        {
+            position: relative;
+            top: 300px;
+        }
+        .sho
+        {
+            color: white;
+   
+            font-size: 20px;
+        }
+        .shopp
+        {
+            margin-left: 520px;
+            position: relative;
+            bottom: 20px;
+        }
+
+        .itemss
+        {
+            list-style: none;
+        }
+        .aitem{
+            color: rgb(185, 184, 184);
+            text-decoration: none;
+
+        }
+        .helpp
+        {
+            margin-left: 750px;
+            position: relative;
+            bottom: 490px;
+        }
+        .help
+        {
+            color: white;
+            font-size: 20px;
+        }
+        .itemss1
+        {
+            list-style: none;
+            
+        }
+        .aitem1
+        {
+            color: rgb(185, 184, 184);
+            text-decoration: none;
+        }
+        .comp
+        {
+            margin-left: 1000px;
+            position: relative;
+            bottom: 780px;
+        }
+        .company
+        {
+            color: white;
+            font-size: 20px;   
+        }
+        .itemss2
+        {
+            list-style: none;
+            
+        }
+        .aitem2
+        {
+            color: rgb(185, 184, 184);
+            text-decoration: none;
+
+        }
+        .visa
+        {
+            position: relative;
+            bottom: 250px;
+        }
+        .app
+        {
+            color: white;
+            position: relative;
+            bottom: 290px;
+            margin-left: 650px;
+        }
+        .play
+        {
+            position: relative;
+            bottom: 330px;
+            margin-left: 850px;
+        }
+        .app2
+        {
+            position: relative;
+            bottom: 383px;
+            margin-left: 1010px;
+        }
+        .copy
+        {
+            color: white;
+            position: relative;
+            bottom: 310px;
+        }
+        
+        
+
+
+
+      

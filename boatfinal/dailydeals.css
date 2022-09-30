@@ -1,0 +1,130 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+body
+{
+    background-color: black;
+    height: 1000px;
+}
+.he1
+{
+    background-color: red;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    line-height: 30px;
+    height: 30px;
+}
+.he2
+{
+    background-color: black;
+    height: 85px;
+}
+.li1
+{
+    float: left;
+    list-style: none;
+}
+.a1
+{
+    text-decoration: none;
+    color: white;
+    position: relative;
+    bottom: 45px;
+    left: 370px;
+    padding: 0px 30px;
+}
+.he2 li a:hover 
+        {
+            /* background-color:red; */
+            color: red;
+        }
+        .he2 li a:active
+        {
+            background-color: blue;
+        }
+        
+        .li1
+        {
+            float: left;
+            list-style: none;
+        }
+        .a1
+        {
+            text-decoration: none;
+            color: white;
+            position: relative;
+            bottom: 45px;
+            left: 370px;
+            padding: 0px 30px;
+        }
+        .im1
+        {
+            background-color: black;
+            height: 45px;
+            margin: 15px 30px;
+        }
+        .sear
+        {
+            position: relative;
+            bottom: 60px;
+            left: 410px;
+            height: 40px;
+            width: 230px;
+            border-radius: 20px;
+        }
+        .dea
+        {
+            color: white;
+            position: relative;
+            right: 525px;
+            top: 30px;
+        }
+
+        .imgs
+        {
+            background-color: white;
+            height: 490px;
+            width: 360px;
+            position: relative;
+            top: 80px;
+            left: 30px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+        .im3
+        {
+            height: 310px;
+            width: 360px;
+            background-color: lightgray;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+        }
+        .p1
+        {
+            color: black;
+            font-weight: bold;
+        }
+        .pr1
+        {
+            color: red;
+            display: inline-block;
+        }
+        .con1
+        {
+            margin: 0px 10px;
+        }
+       
+        .inp1
+        {
+            height: 35px;
+            width: 120px;
+            border-radius: 20px;
+            background-color: black;
+            color: white;
+            border: 1px solid black;
+            position: relative;
+            top: 30px;
+        }
